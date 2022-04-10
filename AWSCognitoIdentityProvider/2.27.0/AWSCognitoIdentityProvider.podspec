@@ -13,8 +13,8 @@ Pod::Spec.new do |s|
                      :tag => s.version}
   s.requires_arc = true
   s.frameworks   = 'Security', 'UIKit'
-  s.dependency 'AWSCore', '2.19.0'
-  s.dependency 'AWSCognitoIdentityProviderASF', '2.19.0'
+  s.dependency 'AWSCore', '2.27.0'
+  s.dependency 'AWSCognitoIdentityProviderASF', '2.27.0'
 
   s.source_files = 'AWSCognitoIdentityProvider/**/*.{h,m,c}'
   s.public_header_files = 'AWSCognitoIdentityProvider/*.h'
