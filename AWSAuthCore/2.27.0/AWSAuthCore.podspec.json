@@ -12,7 +12,7 @@
     "ios": "9.0"
   },
   "source": {
-    "git": "https://gitee.com/china_ios/aws-sdk-ios.git",
+    "git": "https://gitcode.net/ioschina/aws-sdk-ios.git",
     "tag": "2.27.0"
   },
   "requires_arc": true,
