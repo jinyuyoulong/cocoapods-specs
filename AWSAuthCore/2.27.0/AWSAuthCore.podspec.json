@@ -13,12 +13,12 @@
   },
   "source": {
     "git": "https://gitcode.net/ioschina/aws-sdk-ios.git",
-    "tag": "2.27.6"
+    "tag": "2.27.0"
   },
   "requires_arc": true,
   "dependencies": {
     "AWSCore": [
-      "2.27.6"
+      "2.27.0"
     ]
   },
   "source_files": "AWSAuthSDK/Sources/AWSAuthCore/*.{h,m}",
