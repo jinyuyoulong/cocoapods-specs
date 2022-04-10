@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.author           = { 'Lision' => 'lisionmail@gmail.com' }
   s.social_media_url = 'https://lision.me/'
   s.homepage         = 'https://github.com.cnpmjs.org/Lision/WKWebViewJavascriptBridge'
-  s.source           = { :git => 'https://github.com.cnpmjs.org/Lision/WKWebViewJavascriptBridge.git', :tag => s.version.to_s }  
+  s.source           = { :git => 'https://gitee.com/mirrors_Lision/WKWebViewJavascriptBridge.git', :tag => s.version.to_s }  
 s.source_files     = 'WKWebViewJavascriptBridge/*.{h,swift}'
   s.platform         = :ios, '9.0'
   s.requires_arc     = true
